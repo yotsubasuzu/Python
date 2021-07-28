@@ -1,0 +1,7 @@
+Ma HS, xeploai_TB chuan, xeploai_A, xeploai_A1, xeploai_B, xeploai_C, xeploai_D
+Nguyen Van A; Kha; 2; 2; 2; 1; 2
+Nguyen Van B; Kha; 1; 1; 1; 1; 1
+Nguyen Van C; Kha; 2; 2; 1; 1; 2
+Nguyen Van D; Kha; 2; 2; 2; 1; 2
+Nguyen Van E; TB; 2; 2; 2; 2; 2
+Nguyen Van F; TB Kha; 2; 2; 2; 2; 2
